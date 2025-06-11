@@ -58,3 +58,13 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 > ⭐️ If you like this project, give it a star!
+
+## Contributing Guide
+
+Thank you for your interest in contributing! Follow these steps to edit the code:
+
+### Getting Started
+
+1. **Fork this repository** and clone it to your local machine:
+   ```bash
+   git clone https://github.com/<your-username>/netflix.git
